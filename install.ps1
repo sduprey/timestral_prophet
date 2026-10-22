@@ -15,6 +15,9 @@ $Packages = @(
     "pyyaml",
     "joblib",
     "statsmodels",
+    "seaborn",
+    "scikit-learn",
+    "kagglehub",
     "ipykernel"
 )
 
