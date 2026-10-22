@@ -14,6 +14,7 @@ $Packages = @(
     "matplotlib",
     "pyyaml",
     "joblib",
+    "statsmodels",
     "ipykernel"
 )
 
